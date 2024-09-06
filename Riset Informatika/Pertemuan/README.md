@@ -242,5 +242,4 @@ https://scholarlyoa.com/
 
 Proof reading untuk mempercepat proses review,
 misal
-`http://webshop.elsevier.com/languageservices/lan
-guageediting/`
+`http://webshop.elsevier.com/languageservices/languageediting/`
