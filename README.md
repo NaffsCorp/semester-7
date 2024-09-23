@@ -29,7 +29,15 @@
 | Week 4 - Riset Informatika        | ❌ Libur |
 | Week 4 - Audit IT                 | ❌ Libur |
 | Week 4 - Aplikasi Mobile          | ❌ Tidak |
-| Week 4 - Pengolahan Citra Digital | - Belum |
-| Week 4 - Pengenalan Pola          | - Belum |
-| Week 4 - Kepemimpinan             | - Belum |
-| Week 4 - Manajemen Proyek         | - Belum |
+| Week 4 - Pengolahan Citra Digital | ✅ Masuk |
+| Week 4 - Pengenalan Pola          | ✅ Masuk |
+| Week 4 - Kepemimpinan             | ✅ Masuk |
+| Week 4 - Manajemen Proyek         | ✅ Masuk |
+| --------------------------------- | -------- |
+| Week 5 - Riset Informatika        | ✅ Masuk |
+| Week 5 - Audit IT                 | - Belum |
+| Week 5 - Aplikasi Mobile          | - Belum |
+| Week 5 - Pengolahan Citra Digital | - Belum |
+| Week 5 - Pengenalan Pola          | - Belum |
+| Week 5 - Kepemimpinan             | - Belum |
+| Week 5 - Manajemen Proyek         | - Belum |
