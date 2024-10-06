@@ -35,9 +35,9 @@
 | Week 4 - Manajemen Proyek         | ✅ Masuk |
 | --------------------------------- | -------- |
 | Week 5 - Riset Informatika        | ✅ Masuk |
-| Week 5 - Audit IT                 | - Belum |
-| Week 5 - Aplikasi Mobile          | - Belum |
-| Week 5 - Pengolahan Citra Digital | - Belum |
-| Week 5 - Pengenalan Pola          | - Belum |
-| Week 5 - Kepemimpinan             | - Belum |
-| Week 5 - Manajemen Proyek         | - Belum |
+| Week 5 - Audit IT                 | ✅ Masuk |
+| Week 5 - Aplikasi Mobile          | ❌ Tidak |
+| Week 5 - Pengolahan Citra Digital | ❌ Tidak |
+| Week 5 - Pengenalan Pola          | ❌ Tidak |
+| Week 5 - Kepemimpinan             | ✅ Masuk |
+| Week 5 - Manajemen Proyek         | ✅ Masuk |
