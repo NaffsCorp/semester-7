@@ -37,7 +37,15 @@
 | Week 5 - Riset Informatika        | ✅ Masuk |
 | Week 5 - Audit IT                 | ✅ Masuk |
 | Week 5 - Aplikasi Mobile          | ❌ Tidak |
-| Week 5 - Pengolahan Citra Digital | ❌ Tidak |
-| Week 5 - Pengenalan Pola          | ❌ Tidak |
+| Week 5 - Pengolahan Citra Digital | ✅ Masuk |
+| Week 5 - Pengenalan Pola          | ✅ Masuk |
 | Week 5 - Kepemimpinan             | ✅ Masuk |
 | Week 5 - Manajemen Proyek         | ✅ Masuk |
+| --------------------------------- | -------- |
+| Week 6 - Riset Informatika        | ✅ Masuk |
+| Week 6 - Audit IT                 | ❌ Tidak |
+| Week 6 - Aplikasi Mobile          | ✅ Masuk |
+| Week 6 - Pengolahan Citra Digital | ❌ Tidak |
+| Week 6 - Pengenalan Pola          | ❌ Tidak |
+| Week 6 - Kepemimpinan             | ✅ Masuk |
+| Week 6 - Manajemen Proyek         | ✅ Masuk |
