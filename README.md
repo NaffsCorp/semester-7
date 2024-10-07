@@ -49,3 +49,11 @@
 | Week 6 - Pengenalan Pola          | ❌ Tidak |
 | Week 6 - Kepemimpinan             | ✅ Masuk |
 | Week 6 - Manajemen Proyek         | ✅ Masuk |
+| --------------------------------- | -------- |
+| Week 7 - Riset Informatika        | ✅ Masuk |
+| Week 7 - Audit IT                 | ✅ Masuk |
+| Week 7 - Aplikasi Mobile          |  |
+| Week 7 - Pengolahan Citra Digital |  |
+| Week 7 - Pengenalan Pola          |  |
+| Week 7 - Kepemimpinan             |  |
+| Week 7 - Manajemen Proyek         |  |
